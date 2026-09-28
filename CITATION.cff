@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Indice de amortizacion del termostato inteligente por CCAA 2026"
+message: "Si utilizas este conjunto de datos, citalo como se indica."
+type: dataset
+version: "1.0"
+date-released: "2026-07-11"
+license: CC-BY-4.0
+url: "https://hogarconectado.co/guias/indice-amortizacion-hogar-inteligente-ccaa-2026"
+repository-artifact: "https://hogarconectado.co/assets/data/indice-amortizacion-ccaa-2026.csv"
+abstract: >-
+  Anios necesarios para amortizar un termostato inteligente en cada comunidad autonoma de
+  Espania, calculado a partir del consumo de calefaccion por zona climatica (IDAE SPAHOUSEC),
+  la zona de invierno del CTE DB-HE y precios publicos de la energia. Importante: el consumo
+  de referencia se publica por zona climatica, no por comunidad, de modo que las comunidades
+  que comparten zona comparten cifra.
+keywords:
+  - termostato inteligente
+  - calefaccion
+  - amortizacion
+  - eficiencia energetica
+  - Espania
+authors:
+  - family-names: "de Madrazo"
+    given-names: "Bruno"
